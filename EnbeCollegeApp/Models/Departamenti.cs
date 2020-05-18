@@ -7,7 +7,8 @@ namespace EnbeCollegeApp.Models
 {
     public class Departamenti
     {
-        //u kriju departamenti
 
+        public int ID { get; set; }
+        public int MyProperty { get; set; }
     }
 }
